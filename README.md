@@ -1,5 +1,7 @@
 # BADM 2301
 
+NYAHAHAHAHAHAHAHAHAHAHAHA
+
 This repository contains resources for instructing a university-level course on [Management Information Systems](https://en.wikipedia.org/wiki/Management_information_system).
 
 university | school | department | semester | course | section | credits
